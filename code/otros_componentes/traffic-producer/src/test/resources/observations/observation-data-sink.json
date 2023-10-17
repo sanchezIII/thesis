@@ -1,0 +1,3 @@
+{
+  "uri": "redis://:nopassword@localhost:7000/0"
+}

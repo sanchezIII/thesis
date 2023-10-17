@@ -1,0 +1,180 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Berners-lee(1999)]{ref31}
+T.~Berners-lee.
+\newblock \emph{Weaving the Web: The Original Design and Ultimate Destiny of
+  the World Wide Web}.
+\newblock HarperOne, 1st edition, 1999.
+\newblock ISBN 9780062515865; 0062515861; 9780062515872; 006251587X.
+\newblock URL \url{libgen.li/file.php?md5=f2b82d8a429c0d977583ee1b2a9bd842}.
+
+\bibitem[Casrrubio(2023)]{ref55}
+M.~P. Casrrubio.
+\newblock Aplicación de algoritmos de inteligencia artificial en sistemas de
+  iot orientado a la domótica.
+\newblock \emph{Internet of Things (IoT)}, 2023.
+\newblock URL
+  \url{https://openaccess.uoc.edu/bitstream/10609/147534/3/mplanacasTFM0123memoria.pdf}.
+
+\bibitem[Cáceres(2017)]{ref39}
+J.~Cáceres.
+\newblock ¿qué es la internet de las cosas (iot)?
+\newblock \url{https://www.xn--apaados-6za.es/71301-que-es-internet-cosas-iot},
+  2017.
+\newblock Accessed: 2022-11-25.
+
+\bibitem[DuCharme(2013)]{ref25}
+B.~DuCharme.
+\newblock \emph{Learning SPARQL, 2nd Edition: Querying and Updating with SPARQL
+  1.1}.
+\newblock O'Reilly Media, 2013.
+\newblock ISBN 9781449371432; 1449371434.
+\newblock URL \url{libgen.li/file.php?md5=c0d07eb1844cc114b9f7c075267df8d6}.
+
+\bibitem[Kyle~DeMedeiros and Alvarez(2023)]{ref51}
+A.~H. Kyle~DeMedeiros and M.~Alvarez.
+\newblock A survey of ai-based anomaly detection in iot and sensor networks.
+\newblock \emph{Machine Learning}, 2023.
+\newblock \doi{https://doi.org/10.3390/s23031352}.
+\newblock URL \url{https://www.mdpi.com/1424-8220/23/3/1352}.
+
+\bibitem[Maceda(2021)]{ref53}
+A.~Maceda.
+\newblock Uso de algoritmos de machine learning para analizar los datos de
+  energía eléctrica facturada en la ciudad de buenos aires durante el
+  período 2010–2021.
+\newblock \emph{Internet of Things (IoT)}, 2021.
+\newblock URL \url{http://hdl.handle.net/10757/657615}.
+
+\bibitem[{Makina Corpus in collaboration with Brussels Regional Public Service
+  (BRPS).}()]{ref57}
+{Makina Corpus in collaboration with Brussels Regional Public Service (BRPS).}
+\newblock Brussels mobility.
+\newblock URL \url{https://mobilite-mobiliteit.brussels/en}.
+
+\bibitem[Margara and Rabl(2019)]{ref50}
+A.~Margara and T.~Rabl.
+\newblock Definition of data streams.
+\newblock \url{https://doi.org/10.1007/978-3-319-77525-8_188}, 2019.
+\newblock Accessed: 2023-09-29.
+
+\bibitem[Mauricio Castaño~Gómez(2021)]{ref4}
+P.~A. V.~S. Mauricio Castaño~Gómez, Ana María López~Echeverry.
+\newblock Revisión del uso de tecnologías y dispositivos iot en los sistemas
+  de seguridad física.
+\newblock \emph{Internet of Things}, 24, 2021.
+\newblock \doi{https://doi.org/10.25100/iyc.v24i1.11034}.
+\newblock URL
+  \url{https://revistaingenieria.univalle.edu.co/index.php/ingenieria_y_competitividad/article/view/11034/14328}.
+
+\bibitem[Pérez et~al.(2021)Pérez, Mederos, Gálvez, Hurtado, Duarte, and
+  Atemezing]{ref3}
+H.~Pérez, A.~Mederos, D.~Gálvez, L.~Hurtado, D.~Duarte, and G.~Atemezing.
+\newblock \emph{A System for Traffic Events Detection Using Fuzzy C-Means}.
+\newblock 01 2021.
+\newblock ISBN 978-3-030-91304-5.
+\newblock \doi{10.1007/978-3-030-91305-2_6}.
+
+\bibitem[Ramírez(2022)]{ref52}
+Y.~Ramírez.
+\newblock Uso de algoritmos de machine learning para analizar los datos de
+  energía eléctrica facturada en la ciudad de buenos aires durante el
+  período 2010–2021.
+\newblock \emph{Machine Learning}, 2022.
+\newblock URL
+  \url{https://revistas.intec.edu.do/index.php/cite/article/download/2578/3186}.
+
+\bibitem[Rhayem et~al.(2020)Rhayem, Mhiri, and Gargouri]{ref8}
+A.~Rhayem, M.~B.~A. Mhiri, and F.~Gargouri.
+\newblock Semantic web technologies for the internet of things: Systematic
+  literature review.
+\newblock \emph{Internet of Things}, 11:\penalty0 100206, 2020.
+\newblock ISSN 2542-6605.
+\newblock \doi{https://doi.org/10.1016/j.iot.2020.100206}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S2542660520300421}.
+
+\bibitem[Strategy(2018)]{ref19}
+C.~Strategy.
+\newblock What is the semantic web?
+\newblock \emph{Semantic Web}, 2018.
+\newblock URL \url{https://simplea.com/Articles/what-is-the-semantic-web}.
+\newblock Accessed: 2023-09-25.
+
+\bibitem[Tim Berners-Lee(2001)]{ref10}
+O.~L. Tim Berners-Lee, James~Hendler.
+\newblock The semantic web. a new form of web content that is meaningful to
+  computers will unleash a revolution of newpossibilities.
+\newblock \emph{Semantic Web}, 2001.
+\newblock ISSN 33-39.
+\newblock URL
+  \url{https://www.academia.edu/download/30225519/p01_thesemanticweb.pdf}.
+
+\bibitem[Vílchez~Chiachío(2021)]{ref54}
+J.~M. Vílchez~Chiachío.
+\newblock RecolecciÓn y reconocimiento de eventos domÉsticos mediante
+  sensores de sonido en iot.
+\newblock \emph{Internet of Things (IoT)}, 2021.
+\newblock URL \url{https://hdl.handle.net/10953.1/19997}.
+
+\bibitem[W3C({\natexlab{a}})]{ref21}
+W3C.
+\newblock Sparql query language for rdf.
+\newblock \url{https://www.w3.org/TR/rdf-sparql-query/}, {\natexlab{a}}.
+\newblock Accessed: 2022-11-25.
+
+\bibitem[W3C({\natexlab{b}})]{ref46}
+W3C.
+\newblock Resource description framework(rdf) model and syntax specificatio.
+\newblock \url{https://www.w3.org/TR/PR-rdf-syntax/}, {\natexlab{b}}.
+\newblock Accessed: 2023-09-26.
+
+\bibitem[W3C(2012{\natexlab{a}})]{ref12}
+W3C.
+\newblock Web ontology language (owl).
+\newblock \url{https://www.w3.org/OWL}, 2012{\natexlab{a}}.
+\newblock Accessed: 2022-11-25.
+
+\bibitem[W3C(2012{\natexlab{b}})]{ref23}
+W3C.
+\newblock The ssn ontology of the w3c semantic sensor network incubator group
+  author links open overlay panel.
+\newblock
+  \url{https://www.sciencedirect.com/science/article/pii/S1570826812000571},
+  2012{\natexlab{b}}.
+
+\bibitem[W3C(2013)]{ref48}
+W3C.
+\newblock Thing description (td) ontology.
+\newblock \url{https://www.w3.org/TR/2014/REC-turtle-20140225}, 2013.
+\newblock Accessed: 2023-09-29.
+
+\bibitem[W3C(2017)]{ref49}
+W3C.
+\newblock Semantic sensor network ontology.
+\newblock \url{https://www.w3.org/TR/vocab-ssn/}, 2017.
+\newblock Accessed: 2023-09-29.
+
+\bibitem[Zeadally and Bello(2021)]{ref1}
+S.~Zeadally and O.~Bello.
+\newblock Harnessing the power of internet of things based connectivity to
+  improve healthcare.
+\newblock \emph{Internet of Things}, 14:\penalty0 100074, 2021.
+\newblock ISSN 2542-6605.
+\newblock \doi{https://doi.org/10.1016/j.iot.2019.100074}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S254266051930191X}.
+
+\bibitem[Özgür Lütfü~Özçep and r(2014)]{ref47}
+Özgür Lütfü~Özçep and R.~M. r.
+\newblock \emph{Ontology Based Data Access on Temporal and Streaming Data}.
+\newblock 2014.
+\newblock URL
+  \url{https://link.springer.com/chapter/10.1007/978-3-319-10587-1_7}.
+
+\end{thebibliography}

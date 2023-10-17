@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../code/topics/traffic"
+		},
+		{
+			"path": "../code/enigma_main"
+		}
+	],
+	"settings": {}
+}

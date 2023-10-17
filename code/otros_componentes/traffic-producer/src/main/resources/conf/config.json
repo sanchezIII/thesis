@@ -1,0 +1,34 @@
+{
+  "observation-service": {
+    "uri": "redis://:nopassword@localhost:7000"
+  },
+  "sensor-service": {
+    "connection_string": "mongodb://localhost:27017",
+    "db_name": "traffic"
+  },
+  "stream-service": {
+    "connection_string": "mongodb://localhost:27017",
+    "db_name": "traffic"
+  },
+  "service-gateway": {
+    "frequency": 60000,
+    "use-ssl": true,
+    "auto-fetch-observations": false,
+    "dataset": {
+      "endpoint": "https://data.mobility.brussels/traffic/api/counts",
+      "observation-request-param": "live",
+      "sensor-request-param": "devices",
+      "outputFormat": "json",
+      "interval": 1,
+      "includeLanes": true,
+      "singleValue": false
+    },
+    "registration-enabled": false
+  },
+  "start-sensor-service": true,
+  "start-stream-service": true,
+  "start-observation-service": false,
+  "start-api-service": true,
+  "start-iot-service-gateway": false,
+  "start-kafka-service": true
+}

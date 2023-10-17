@@ -1,0 +1,1590 @@
+{
+  "requestDate": "2021/09/05 07:20:21",
+  "type": "FeatureCollection",
+  "totalFeatures": 66,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "traverse.62599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.356958532006813,
+          50.83659133445717
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "LOU_TD1",
+        "descr_nl": "Louizatunnel - inrit : Basiliek > Zuid + Kameren",
+        "descr_fr": "Tunnel Louise - entrée : Basilique > Midi + Cambre",
+        "descr_en": "Tunnel Louise - entrée : Basilique > Midi + Cambre",
+        "orientation": 50,
+        "number_of_lanes": 2,
+        "detectors": [
+          "LOU_TD1_1",
+          "LOU_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.368522827693072,
+          50.84575518115578
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "ARL_103",
+        "descr_nl": "Kunst-Wettunnel > Zuid",
+        "descr_fr": "Tunnel Arts-Loi > Midi",
+        "descr_en": "Tunnel Arts-Loi > Midi",
+        "orientation": 20,
+        "number_of_lanes": 2,
+        "detectors": [
+          "ARL_103_1",
+          "ARL_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62619",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34920696698087,
+          50.85799747924377
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB020_BBin",
+        "descr_nl": "Boudewijnlaan : Helihavenlaan > IJzerplein",
+        "descr_fr": "Bd. Baudouin : Av. de l'Héliport > Pl. de l'Yser",
+        "descr_en": "Bd. Baudouin : Av. de l'Héliport > Pl. de l'Yser",
+        "orientation": 115,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB020_BBin1",
+          "SB020_BBin2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38682173223087,
+          50.841834723753095
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "LOI_103",
+        "descr_nl": "Wettunnel : Jubelpark > Centrum",
+        "descr_fr": "Tunnel Loi : Cinquantenaire > Centre",
+        "descr_en": "Tunnel Loi : Cinquantenaire > Centre",
+        "orientation": 110,
+        "number_of_lanes": 2,
+        "detectors": [
+          "LOI_103_1",
+          "LOI_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.357562949302244,
+          50.89300002473024
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB0236_BHout",
+        "descr_nl": "Koninklijk Parklaan : Madridlaan > Vorstenhuislaan",
+        "descr_fr": "Av. du Parc Royal : Av. de Madrid > Av. de la Dynastie",
+        "descr_en": "Av. du Parc Royal : Av. de Madrid > Av. de la Dynastie",
+        "orientation": 320,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB0236_BHout1",
+          "SB0236_BHout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.394487228912039,
+          50.84022072356092
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "CIN_TD1",
+        "descr_nl": "Jubelparktunnel > Centrum",
+        "descr_fr": "Tunnel Cinquantenaire > Centre",
+        "descr_en": "Tunnel Cinquantenaire > Centre",
+        "orientation": 110,
+        "number_of_lanes": 2,
+        "detectors": [
+          "CIN_TD1_1",
+          "CIN_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62611",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.394483838999412,
+          50.84012547127781
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "CIN_TD2",
+        "descr_nl": "Belliard-Jubelparktunnel > Tervueren",
+        "descr_fr": "Tunnel Belliard-Cinquantenaire > Tervueren",
+        "descr_en": "Tunnel Belliard-Cinquantenaire > Tervueren",
+        "orientation": 290,
+        "number_of_lanes": 2,
+        "detectors": [
+          "CIN_TD2_1",
+          "CIN_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62612",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.398557533388515,
+          50.848036684485955
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "RCE_TD1",
+        "descr_nl": "Reyers-Centrumtunnel > Centrum",
+        "descr_fr": "Tunnel Reyers-Centre > Centre",
+        "descr_en": "Tunnel Reyers-Centre > Centre",
+        "orientation": 64,
+        "number_of_lanes": 1,
+        "detectors": [
+          "RCE_TD1_1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380577608947574,
+          50.79903968393199
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BHin",
+        "descr_nl": "Terhulpsesteenweg : Diesdellelaan > Lorrainedreef",
+        "descr_fr": "Ch. de la Hulpe : Av. du Vivier d'Oie > Dr. de Lorraine",
+        "descr_en": "Ch. de la Hulpe : Av. du Vivier d'Oie > Dr. de Lorraine",
+        "orientation": 280,
+        "number_of_lanes": 1,
+        "detectors": [
+          "SUL62_BHin1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380834870189815,
+          50.84023539417568
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BE_TD1",
+        "descr_nl": "Belliardtunnel - inrit",
+        "descr_fr": "Tunnel Belliard - entrée",
+        "descr_en": "Tunnel Belliard - entrée",
+        "orientation": 260,
+        "number_of_lanes": 3,
+        "detectors": [
+          "BE_TD1_1",
+          "BE_TD1_2",
+          "BE_TD1_3"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36755767589685,
+          50.84271941555793
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB121_BBin",
+        "descr_nl": "Belliardstraat : Kunstlaan > Handelsstraat",
+        "descr_fr": "Rue Belliard : Av. des Arts > Rue du Commerce",
+        "descr_en": "Rue Belliard : Av. des Arts > Rue du Commerce",
+        "orientation": 285,
+        "number_of_lanes": 5,
+        "detectors": [
+          "SB121_BBin1",
+          "SB121_BBin2",
+          "SB121_BBin3",
+          "SB121_BBin4",
+          "SB121_BBin5"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62614",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36847711930287,
+          50.84542121275381
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "ARL_203",
+        "descr_nl": "Kunst-Wettunnel > Basiliek",
+        "descr_fr": "Tunnel Arts-Loi > Basilique",
+        "descr_en": "Tunnel Arts-Loi > Basilique",
+        "orientation": 200,
+        "number_of_lanes": 2,
+        "detectors": [
+          "ARL_203_1",
+          "ARL_203_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62615",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.344351751568636,
+          50.83332920514462
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "HAL_292",
+        "descr_nl": "Hallepoorttunnel > Basiliek",
+        "descr_fr": "Tunnel Porte de Hal > Basilique",
+        "descr_en": "Tunnel Porte de Hal > Basilique",
+        "orientation": 290,
+        "number_of_lanes": 2,
+        "detectors": [
+          "HAL_292_1",
+          "HAL_292_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.365890693629887,
+          50.8406560215722
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "TRO_203",
+        "descr_nl": "Troontunnel > Belliard",
+        "descr_fr": "Tunnel Trône > Belliard",
+        "descr_en": "Tunnel Trône > Belliard",
+        "orientation": 220,
+        "number_of_lanes": 2,
+        "detectors": [
+          "TRO_203_1",
+          "TRO_203_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62597",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37430823073347,
+          50.841309617534144
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB125_BBout",
+        "descr_nl": "Belliardstraat : Aarlenstraat > Trierstraat",
+        "descr_fr": "Rue Belliard : Rue d'Arlon > rue de Trèves",
+        "descr_en": "Rue Belliard : Rue d'Arlon > rue de Trèves",
+        "orientation": 285,
+        "number_of_lanes": 4,
+        "detectors": [
+          "SB125_BBout1",
+          "SB125_BBout2",
+          "SB125_BBout3",
+          "SB125_BBout4"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62620",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367058173283611,
+          50.85292714835939
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BOT_TD2",
+        "descr_nl": "Kruidtuintunnel > Basiliek",
+        "descr_fr": "Tunnel Botanique > Basilique",
+        "descr_en": "Tunnel Botanique > Basilique",
+        "orientation": 120,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BOT_TD2_1",
+          "BOT_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62606",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.345046912250784,
+          50.83327139975182
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "HAL_191",
+        "descr_nl": "Hallepoorttunnel > Zuid",
+        "descr_fr": "Tunnel Porte de Hal > Midi",
+        "descr_en": "Tunnel Porte de Hal > Midi",
+        "orientation": 110,
+        "number_of_lanes": 2,
+        "detectors": [
+          "HAL_191_1",
+          "HAL_191_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.407638947491835,
+          50.815745274844865
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "DEL_103_12",
+        "descr_nl": "Deltatunnel > Centre",
+        "descr_fr": "Tunnel Delta > Centre",
+        "descr_en": "Tunnel Delta > Centre",
+        "orientation": 135,
+        "number_of_lanes": 2,
+        "detectors": [
+          "DEL_103_1",
+          "DEL_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62628",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.407393406724443,
+          50.83712683922373
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "MON_TD1",
+        "descr_nl": "Montgomerytunnel > Kameren",
+        "descr_fr": "Tunnel Montgomery > Cambre",
+        "descr_en": "Tunnel Montgomery > Cambre",
+        "orientation": 15,
+        "number_of_lanes": 2,
+        "detectors": [
+          "MON_TD1_1",
+          "MON_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62629",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.354700971956416,
+          50.83561403408505
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "LOU_110",
+        "descr_nl": "Louizatunnel - lus : Basiliek > Kameren",
+        "descr_fr": "Tunnel Louise - boucle : Basilique > Cambre",
+        "descr_en": "Tunnel Louise - boucle : Basilique > Cambre",
+        "orientation": 105,
+        "number_of_lanes": 1,
+        "detectors": [
+          "LOU_110_6"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62630",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3555104157326365,
+          50.8357236560742
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "STE_TD3",
+        "descr_nl": "Stefaniatunnel - oprit : Kameren > Basiliek",
+        "descr_fr": "Tunnel Stéphanie - bretelle : Cambre > Basilique",
+        "descr_en": "Tunnel Stéphanie - bretelle : Cambre > Basilique",
+        "orientation": 190,
+        "number_of_lanes": 1,
+        "detectors": [
+          "STE_TD3_1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.382792596332452,
+          50.797906094861425
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BGin",
+        "descr_nl": "Lorrainedreef : Korporaaldreef > Terhulpsesteenweg",
+        "descr_fr": "Dr. de Lorraine : Dr. du Caporal > Ch. de la Hulpe",
+        "descr_en": "Dr. de Lorraine : Dr. du Caporal > Ch. de la Hulpe",
+        "orientation": 170,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SUL62_BGin1",
+          "SUL62_BGin2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.368971507282887,
+          50.84915397133907
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "MAD_103",
+        "descr_nl": "Madoutunnel > Zuid",
+        "descr_fr": "Tunnel Madou > Midi",
+        "descr_en": "Tunnel Madou > Midi",
+        "orientation": 350,
+        "number_of_lanes": 2,
+        "detectors": [
+          "MAD_103_1",
+          "MAD_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367967574981379,
+          50.823371913025895
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "VLE_103",
+        "descr_nl": "Vleurgattunnel > Centrum",
+        "descr_fr": "Tunnel Vleurgat > Centre",
+        "descr_en": "Tunnel Vleurgat > Centre",
+        "orientation": 150,
+        "number_of_lanes": 2,
+        "detectors": [
+          "VLE_103_1",
+          "VLE_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35529733515802,
+          50.856096083891345
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "ROG_TD1",
+        "descr_nl": "Rogier-Kruidtuintunnel > Zuid",
+        "descr_fr": "Tunnel Rogier-Botanique > Midi",
+        "descr_en": "Tunnel Rogier-Botanique > Midi",
+        "orientation": 295,
+        "number_of_lanes": 2,
+        "detectors": [
+          "ROG_TD1_1",
+          "ROG_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62579",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36169819780213,
+          50.83847994394033
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "PNA_203",
+        "descr_nl": "Naamsepoorttunnel > Basiliek",
+        "descr_fr": "Tunnel Porte de Namur > Basilique",
+        "descr_en": "Tunnel Porte de Namur > Basilique",
+        "orientation": 235,
+        "number_of_lanes": 2,
+        "detectors": [
+          "PNA_203_1",
+          "PNA_203_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.407602121152424,
+          50.815624305819554
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "DEL_103_6",
+        "descr_nl": "Deltatunnel > Parking",
+        "descr_fr": "Tunnel Delta > Parking",
+        "descr_en": "Tunnel Delta > Parking",
+        "orientation": 110,
+        "number_of_lanes": 1,
+        "detectors": [
+          "DEL_103_6"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62631",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380586851196785,
+          50.79906915993426
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BDout",
+        "descr_nl": "Terhulpsesteenweg : Lorrainedreef > Diesdellelaan",
+        "descr_fr": "Ch. de la Hulpe : Dr. de Lorraine > Av. du Vivier d'Oie",
+        "descr_en": "Ch. de la Hulpe : Dr. de Lorraine > Av. du Vivier d'Oie",
+        "orientation": 100,
+        "number_of_lanes": 1,
+        "detectors": [
+          "SUL62_BDout1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62637",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355293112813906,
+          50.83579449675228
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "LOU_TD2",
+        "descr_nl": "Louizatunnel - inrit : Zuid > Basiliek",
+        "descr_fr": "Tunnel Louise - entrée : Midi > Basilique",
+        "descr_en": "Tunnel Louise - entrée : Midi > Basilique",
+        "orientation": 230,
+        "number_of_lanes": 2,
+        "detectors": [
+          "LOU_TD2_1",
+          "LOU_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62581",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.375256127939378,
+          50.879070383708864
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "VP_103",
+        "descr_nl": "Van Praettunnel > Centrum",
+        "descr_fr": "Tunnel Van Praet > Centre",
+        "descr_en": "Tunnel Van Praet > Centre",
+        "orientation": 5,
+        "number_of_lanes": 2,
+        "detectors": [
+          "VP_103_1",
+          "VP_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355441828074628,
+          50.83539422073387
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "STE_TD2",
+        "descr_nl": "Stefaniatunnel - uitrit : Centrum + Basiliek > Kameren",
+        "descr_fr": "Tunnel Stéphanie - sortie : Centre + Basilique > Cambre",
+        "descr_en": "Tunnel Stéphanie - sortie : Centre + Basilique > Cambre",
+        "orientation": 325,
+        "number_of_lanes": 2,
+        "detectors": [
+          "STE_TD2_1",
+          "STE_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62583",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.404540373955111,
+          50.831467137328914
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BOI_203",
+        "descr_nl": "Boileautunnel > Meiser",
+        "descr_fr": "Tunnel Boileau > Meiser",
+        "descr_en": "Tunnel Boileau > Meiser",
+        "orientation": 200,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BOI_203_1",
+          "BOI_203_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4061742687768035,
+          50.842465593174495
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "GH_103",
+        "descr_nl": "Georges Henritunnel > Ter Kameren",
+        "descr_fr": "Tunnel Georges Henri > La Cambre",
+        "descr_en": "Tunnel Georges Henri > La Cambre",
+        "orientation": 340,
+        "number_of_lanes": 3,
+        "detectors": [
+          "GH_103_1",
+          "GH_103_2",
+          "GH_103_3"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355539827422185,
+          50.85609575943906
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "ROG_TD2",
+        "descr_nl": "Rogiertunnel > Basiliek",
+        "descr_fr": "Tunnel Rogier > Basilique",
+        "descr_en": "Tunnel Rogier > Basilique",
+        "orientation": 115,
+        "number_of_lanes": 2,
+        "detectors": [
+          "ROG_TD2_1",
+          "ROG_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62602",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.309904785616376,
+          50.86914212092509
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SGN02_BBout",
+        "descr_nl": "Keizer Karellaan : F. Beeckmansstraat > de Villegaslaan",
+        "descr_fr": "Av. Charles-Quint : Rue F. Beeckmans > Av. de Villegas",
+        "descr_en": "Av. Charles-Quint : Rue F. Beeckmans > Av. de Villegas",
+        "orientation": 115,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SGN02_BBout1",
+          "SGN02_BBout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.407974584873894,
+          50.83739732838495
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "TER_TD1",
+        "descr_nl": "Tervurentunnel > Centrum",
+        "descr_fr": "Tunnel Tervueren > Centre",
+        "descr_en": "Tunnel Tervueren > Centre",
+        "orientation": 110,
+        "number_of_lanes": 2,
+        "detectors": [
+          "TER_TD1_1",
+          "TER_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.386023888622691,
+          50.843319259565334
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BEL_TD4",
+        "descr_nl": "Belliard-Cortenberghtunnel vóór inrit Blijde Inkomst > E40",
+        "descr_fr": "Tunnel Belliard-Cortenbergh avant entrée Joyeuse Entrée > E40",
+        "descr_en": "Tunnel Belliard-Cortenbergh avant entrée Joyeuse Entrée > E40",
+        "orientation": 230,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BEL_TD4_1",
+          "BEL_TD4_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.402407698369136,
+          50.84986331671166
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "RME_TD1",
+        "descr_nl": "Reyers-Meisertunnel > Meiser",
+        "descr_fr": "Tunnel Reyers-Meiser > Meiser",
+        "descr_en": "Tunnel Reyers-Meiser > Meiser",
+        "orientation": 120,
+        "number_of_lanes": 1,
+        "detectors": [
+          "RME_TD1_1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.366765321489265,
+          50.842022499858814
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB1201_BAout",
+        "descr_nl": "Kunstlaan : Montoyerstraat > Belliardstraat",
+        "descr_fr": "Av. des Arts : Rue Montoyer > Rue Belliard",
+        "descr_en": "Av. des Arts : Rue Montoyer > Rue Belliard",
+        "orientation": 195,
+        "number_of_lanes": 4,
+        "detectors": [
+          "SB1201_BAout1",
+          "SB1201_BAout2",
+          "SB1201_BAout3",
+          "SB1201_BAout4"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355336700927835,
+          50.835601260949204
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "STE_TD1",
+        "descr_nl": "Stefaniatunnel - uitrit : Kameren > Centrum",
+        "descr_fr": "Tunnel Stéphanie - sortie : Cambre > Centre",
+        "descr_en": "Tunnel Stéphanie - sortie : Cambre > Centre",
+        "orientation": 140,
+        "number_of_lanes": 1,
+        "detectors": [
+          "STE_TD1_1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3633836989244354,
+          50.89327871043972
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB0246_BAout",
+        "descr_nl": "Vuurkruisenlaan : Heembeekstraat > De Wandstraat",
+        "descr_fr": "Av. des Croix du Feu : rue de Heembeek > rue de Wand",
+        "descr_en": "Av. des Croix du Feu : rue de Heembeek > rue de Wand",
+        "orientation": 125,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB0246_BAout3",
+          "SB0246_BAout4"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.366184626459447,
+          50.84115856148296
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "TRO_TD2",
+        "descr_nl": "Troontunnel > Basilique",
+        "descr_fr": "Tunnel Trône > Basilique",
+        "descr_en": "Tunnel Trône > Basilique",
+        "orientation": 200,
+        "number_of_lanes": 2,
+        "detectors": [
+          "TRO_TD2_1",
+          "TRO_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62604",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.406469458584652,
+          50.8422366718352
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "GH_203",
+        "descr_nl": "Georges Henritunnel > Meiser",
+        "descr_fr": "Tunnel Georges Henri > Meiser",
+        "descr_en": "Tunnel Georges Henri > Meiser",
+        "orientation": 160,
+        "number_of_lanes": 3,
+        "detectors": [
+          "GH_203_1",
+          "GH_203_2",
+          "GH_203_3"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.310578908802709,
+          50.86883244264192
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SGN02_BAout",
+        "descr_nl": "Keizer Karellaan : F. Beeckmansstraat > Boerderijstraat",
+        "descr_fr": "Av. Charles-Quint : Rue F. Beeckmans > Rue de la Métairie",
+        "descr_en": "Av. Charles-Quint : Rue F. Beeckmans > Rue de la Métairie",
+        "orientation": 295,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SGN02_BAout1",
+          "SGN02_BAout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62624",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348769778777931,
+          50.85820308979338
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB020_BCin",
+        "descr_nl": "Willebroekkaai : Ruimingskaai > IJzerplein",
+        "descr_fr": "Quai de Willebroeck : Quai de la Voirie > Pl. de l'Yser",
+        "descr_en": "Quai de Willebroeck : Quai de la Voirie > Pl. de l'Yser",
+        "orientation": 25,
+        "number_of_lanes": 3,
+        "detectors": [
+          "SB020_BCin1",
+          "SB020_BCin2",
+          "SB020_BCin3"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.362377238897102,
+          50.83886497157471
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "PNA_103",
+        "descr_nl": "Naamsepoorttunnel > Zuid",
+        "descr_fr": "Tunnel Porte de Namur > Midi",
+        "descr_en": "Tunnel Porte de Namur > Midi",
+        "orientation": 55,
+        "number_of_lanes": 2,
+        "detectors": [
+          "PNA_103_1",
+          "PNA_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.383988483754248,
+          50.79859715824644
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BHout",
+        "descr_nl": "Terhulpsesteenweg : Lorrainedreef > 's-Herenhuislaan",
+        "descr_fr": "Ch. de la Hulpe : Dr. de Lorraine > Av. S'Heeren Huys",
+        "descr_en": "Ch. de la Hulpe : Dr. de Lorraine > Av. S'Heeren Huys",
+        "orientation": 280,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SUL62_BHout1",
+          "SUL62_BHout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.382476161073585,
+          50.79900149358043
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BGout",
+        "descr_nl": "Lorrainedreef : Terhulpsesteenweg > Bosvoordselaan",
+        "descr_fr": "Dr. de Lorraine : Ch. de la Hulpe > Av. de Boitsfort",
+        "descr_en": "Dr. de Lorraine : Ch. de la Hulpe > Av. de Boitsfort",
+        "orientation": 210,
+        "number_of_lanes": 1,
+        "detectors": [
+          "SUL62_BGout1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.369168001912546,
+          50.84885319101456
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "MAD_203",
+        "descr_nl": "Madoutunnel > Basiliek",
+        "descr_fr": "Tunnel Madou > Basilique",
+        "descr_en": "Tunnel Madou > Basilique",
+        "orientation": 170,
+        "number_of_lanes": 2,
+        "detectors": [
+          "MAD_203_1",
+          "MAD_203_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367475609782406,
+          50.82373918108566
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "VLE_203",
+        "descr_nl": "Vleurgattunnel > Ter Kameren",
+        "descr_fr": "Tunnel Vleurgat > La Cambre",
+        "descr_en": "Tunnel Vleurgat > La Cambre",
+        "orientation": 330,
+        "number_of_lanes": 2,
+        "detectors": [
+          "VLE_103_1",
+          "VLE_103_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.386506259460816,
+          50.841738076889506
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BET_TD3",
+        "descr_nl": "Belliard-Jubelparktunnel > Tervueren",
+        "descr_fr": "Tunnel Belliard-Cinquantenaire > Tervueren",
+        "descr_en": "Tunnel Belliard-Cinquantenaire > Tervueren",
+        "orientation": 290,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BET_TD3_1",
+          "BET_TD3_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.375338321681319,
+          50.878638268916085
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "VP_203",
+        "descr_nl": "Van Praettunnel > A12",
+        "descr_fr": "Tunnel Van Praet > A12",
+        "descr_en": "Tunnel Van Praet > A12",
+        "orientation": 185,
+        "number_of_lanes": 2,
+        "detectors": [
+          "VP_203_1",
+          "VP_203_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.382733089515942,
+          50.79789849260495
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BA1out",
+        "descr_nl": "Lorrainedreef : Terhulpsesteenweg > Korporaaldreef",
+        "descr_fr": "Dr. de Lorraine : Ch. de la Hulpe > Dr. du Caporal",
+        "descr_en": "Dr. de Lorraine : Ch. de la Hulpe > Dr. du Caporal",
+        "orientation": 350,
+        "number_of_lanes": 1,
+        "detectors": [
+          "SUL62_BA1out1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.384000741289351,
+          50.798636128419304
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SUL62_BDin",
+        "descr_nl": "Terhulpsesteenweg : 's-Herenhuislaan > Lorrainedreef",
+        "descr_fr": "Ch. de la Hulpe : Av. S'Heeren Huys > Dr. de Lorraine",
+        "descr_en": "Ch. de la Hulpe : Av. S'Heeren Huys > Dr. de Lorraine",
+        "orientation": 100,
+        "number_of_lanes": 1,
+        "detectors": [
+          "SUL62_BDin1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62633",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.363282601071202,
+          50.892672649001796
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB0246_BXout",
+        "descr_nl": "Van Praetlaan : Araucarialaan > Vilvoordsesteenweg",
+        "descr_fr": "Av. Van Praet : Av. de l'Araucaria > Ch. de Vilvorde",
+        "descr_en": "Av. Van Praet : Av. de l'Araucaria > Ch. de Vilvorde",
+        "orientation": 295,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB0246_BXout1",
+          "SB0246_BXout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.349191109004981,
+          50.85823773412872
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB020_BDout",
+        "descr_nl": "Willebroekkaai : IJzerplein > Simon Bolivarlaan",
+        "descr_fr": "Quai de Willebroeck : Pl. de l'Yser > Bd S. Bolivar",
+        "descr_en": "Quai de Willebroeck : Pl. de l'Yser > Bd S. Bolivar",
+        "orientation": 200,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB020_BDout1",
+          "SB020_BDout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.363127549002894,
+          50.82795651346955
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BAI_TD2",
+        "descr_nl": "Baillitunnel > Ter Kameren",
+        "descr_fr": "Tunnel Bailli > La Cambre",
+        "descr_en": "Tunnel Bailli > La Cambre",
+        "orientation": 330,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BAI_TD2_1",
+          "BAI_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.363023750916864,
+          50.82818044029395
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BAI_TD1",
+        "descr_nl": "Baillitunnel > Centrum",
+        "descr_fr": "Tunnel Bailli > Centre",
+        "descr_en": "Tunnel Bailli > Centre",
+        "orientation": 150,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BAI_TD1_1",
+          "BAI_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62639",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38594029684627,
+          50.8412923720953
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "LOI_109",
+        "descr_nl": "Wettunnel : inrit Blijde Inkomst > Centrum",
+        "descr_fr": "Tunnel Loi : entrée Joyeuse Entrée > Centre",
+        "descr_en": "Tunnel Loi : entrée Joyeuse Entrée > Centre",
+        "orientation": 200,
+        "number_of_lanes": 1,
+        "detectors": [
+          "LOI_109_6"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3491788360102674,
+          50.85777376690871
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB020_BAout",
+        "descr_nl": "Antwerpselaan : IJzerplein > Antwerpselaan",
+        "descr_fr": "Bd. d'Anvers : Pl. de l'Yser > Bd. d'Anvers",
+        "descr_en": "Bd. d'Anvers : Pl. de l'Yser > Bd. d'Anvers",
+        "orientation": 290,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB020_BAout1",
+          "SB020_BAout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.407520815356913,
+          50.83710662416818
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "MON_TD2",
+        "descr_nl": "Montgomerytunnel > Meiser",
+        "descr_fr": "Tunnel Montgomery > Meiser",
+        "descr_en": "Tunnel Montgomery > Meiser",
+        "orientation": 195,
+        "number_of_lanes": 2,
+        "detectors": [
+          "MON_TD2_1",
+          "MON_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3576038467197895,
+          50.893116644983245
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "SB0236_BCout",
+        "descr_nl": "Koninklijk Parklaan : Madridlaan > A12",
+        "descr_fr": "Av. du Parc Royal : Av. de Madrid > A12",
+        "descr_en": "Av. du Parc Royal : Av. de Madrid > A12",
+        "orientation": 140,
+        "number_of_lanes": 2,
+        "detectors": [
+          "SB0236_BCout1",
+          "SB0236_BCout2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62642",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.366272799453763,
+          50.84152150464341
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "TRO_TD1",
+        "descr_nl": "Troontunnel > Zuid",
+        "descr_fr": "Tunnel Trône > Midi",
+        "descr_en": "Tunnel Trône > Midi",
+        "orientation": 20,
+        "number_of_lanes": 2,
+        "detectors": [
+          "TRO_TD1_1",
+          "TRO_TD1_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62643",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.384599664797546,
+          50.842198466685566
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BET_TD2_12",
+        "descr_nl": "Belliardtunnel - bifurcatie > Jubelpark",
+        "descr_fr": "Tunnel Belliard - bifurcation > Cinquantenaire",
+        "descr_en": "Tunnel Belliard - bifurcation > Cinquantenaire",
+        "orientation": 290,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BET_TD2_1",
+          "BET_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62644",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4071715739995785,
+          50.837488771837734
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "TER_TD2",
+        "descr_nl": "Tervurentunnel > Tervuren",
+        "descr_fr": "Tunnel Tervueren > Tervueren",
+        "descr_en": "Tunnel Tervueren > Tervueren",
+        "orientation": 290,
+        "number_of_lanes": 2,
+        "detectors": [
+          "TER_TD2_1",
+          "TER_TD2_2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "traverse.62645",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3949361577434995,
+          50.847152211770485
+        ],
+        "geometry_name": "geom"
+      },
+      "properties": {
+        "traverse_name": "BEL_TD5",
+        "descr_nl": "Belliard-Cortenberghtunnel > E40",
+        "descr_fr": "Tunnel Belliard-Cortenbergh > E40",
+        "descr_en": "Tunnel Belliard-Cortenbergh > E40",
+        "orientation": 240,
+        "number_of_lanes": 2,
+        "detectors": [
+          "BEL_TD5_1",
+          "BEL_TD5_2"
+        ]
+      }
+    }
+  ]
+}

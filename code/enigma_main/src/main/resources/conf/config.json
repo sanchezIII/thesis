@@ -1,0 +1,32 @@
+{
+    "start-sensor-service": true,
+    "start-stream-service": true,
+    "start-api-service": true,
+    "start-observation-service": true,
+    "start-observation-logging-service": true,
+    "start-topic-service": true,
+    "drop-databases-before-start": true,
+
+    "observation-service": {
+        "uri": "redis://:nopassword@localhost:7000"
+    },
+    "sensor-service": {
+        "connection_string": "mongodb://localhost:27017",
+        "db_name": "traffic"
+    },
+    "stream-service": {
+        "connection_string": "mongodb://localhost:27017",
+        "db_name": "traffic"
+    },
+    "observation-logging-service": {
+        "connection_string": "mongodb://localhost:27017",
+        "db_name": "traffic"
+    },
+    "api-service": {
+        "port": 14080
+    },
+    "topic-service": {
+        "connection_string": "mongodb://localhost:27017",
+        "db_name": "traffic"
+    }
+}

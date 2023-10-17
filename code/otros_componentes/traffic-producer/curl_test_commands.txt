@@ -1,0 +1,20 @@
+curl -i -X POST -H 'Content-Type: application/json' -d '{"id": "brussels1","unit": "km","quantityKind": "speed","latitude": 1.4456,"longitude": -0.2633}' http://localhost:8080/api/addsensor
+
+curl -i -X POST -H 'Content-Type: application/json' -d '{"id":"count-stream-1","location":{"latitude":1.23666,"longitude": -0.23666},"streamStart":"2021/09/05 01:25","generatedBy":"brussels-1","feature":"count"}' http://localhost:8080/api/addstream
+
+curl -i -X POST -H 'Content-Type: application/json' -d '{"id":"7c957d63-9770-413a-91d0-66f13eb40d64","streamId":"BAI_TD1stream1","data":{"value":27.075},"resultTime":"2021/08/27 01:25"}' http://localhost:8080/api/addobservation
+
+
+
+NEW:
+
+curl -i -X POST -H 'Content-Type: application/json' -d '{"id":"7c957d63-9770-413a-91d0-66f13eb40d64","streamId":"BAI_TD1stream1","data":{"value":27.075},"resultTime":"2021/08/27 01:25", "topic":"7c957d63-9770-413a-91d0-66f13eb40d65"}' http://localhost:8080/api/addobservation
+
+
+curl -i -X POST -H 'Content-Type: application/json' -d '{"id": "brussels1","unit": "km","quantityKind": "speed","latitude": 1.4456,"longitude": -0.2633,"topic":"7c957d63-9770-413a-91d0-66f13eb40d65"}' http://localhost:8080/api/addsensor
+
+
+curl -i -X POST -H 'Content-Type: application/json' -d '{"id":"count-stream-1","location":{"latitude":1.23666,"longitude": -0.23666},"streamStart":"2021/09/05 01:25","generatedBy":"brussels-1","feature":"count"}' http://localhost:8080/api/addstream
+
+
+curl -i -X POST -H 'Content-Type: application/json' -d '{"name":"topic1","author":"Luis","description":"","databaseName":"", "observationDataClassName":"com.uclv.test.starter.observations.data.costum.DoubleObservationData","interval":60}' http://localhost:8080/api/addtopic

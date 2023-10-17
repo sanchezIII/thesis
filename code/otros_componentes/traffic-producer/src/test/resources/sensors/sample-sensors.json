@@ -1,0 +1,18 @@
+{
+  "list": [
+    {
+      "id": "brussels1",
+      "unit": "km",
+      "quantityKind": "speed",
+      "latitude": 1.4456,
+      "longitude": -0.2633
+    },
+    {
+      "id": "brussels1",
+      "unit": "unit",
+      "quantityKind": "count",
+      "latitude": 1.4456,
+      "longitude": -0.2633
+    }
+  ]
+}

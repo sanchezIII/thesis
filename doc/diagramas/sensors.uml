@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.uclv.test.starter.sensors</OriginalElement>
+  <nodes>
+    <node x="-116.47030320558633" y="408.26304072647554">com.uclv.test.starter.sensors.SensorMongoRepository</node>
+    <node x="-277.39689600337005" y="659.2630407264755">com.uclv.test.starter.sensors.SensorRepository</node>
+    <node x="-284.89689600337005" y="82.26304072647565">com.uclv.test.starter.sensors.SensorService</node>
+    <node x="-672.6325703432508" y="82.26304072647565">com.uclv.test.starter.sensors.Sensor</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.uclv.test.starter.sensors.SensorService" target="com.uclv.test.starter.sensors.SensorMongoRepository" relationship="CREATE">
+      <point x="159.5" y="143.0" />
+      <point x="-1.4265927977837123" y="-105.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.sensors.SensorMongoRepository" target="com.uclv.test.starter.sensors.SensorRepository" relationship="REALIZATION">
+      <point x="-152.0" y="105.5" />
+      <point x="8.926592797783712" y="-54.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.sensors.SensorService" target="com.uclv.test.starter.sensors.SensorRepository" relationship="TO_ONE">
+      <point x="-16.073407202216288" y="143.0" />
+      <point x="-203.45706371191136" y="368.26304072647565" />
+      <point x="-203.45706371191136" y="588.3891087997043" />
+      <point x="-203.45706371191136" y="653.8670360110804" />
+      <point x="-91.435513968929" y="-59.89600471539518" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal Groups" zoom="0.7978253182461104" showDependencies="true" x="-248.2663711911356" y="284.05196675900277" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

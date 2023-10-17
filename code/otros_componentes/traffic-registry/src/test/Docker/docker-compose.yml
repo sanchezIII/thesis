@@ -1,0 +1,8 @@
+# version: "3.9"
+version: "3.3"
+services:
+  triplestore:
+    container_name: triplestore
+    build: .
+    ports:
+      - "5820:5820"

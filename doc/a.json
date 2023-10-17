@@ -1,0 +1,8 @@
+{
+    "id": "d8df7616-fd17-4115-9e6e-1035a23862f9",
+    "databaseName": "",
+    "author": "Luis Enrique Saborit Gonzalez",
+    "description": "",
+    "observationDataClassName": "com.uclv.observations.data.DoubleObservationData",
+    "name": "Trafico de Bruselas"
+}

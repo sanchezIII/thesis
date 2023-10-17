@@ -1,0 +1,9 @@
+{
+  "database-name": "traffic",
+  "database-url": "http://localhost:5820/traffic",
+  "server": "http://localhost:5820",
+  "username": "admin",
+  "password": "admin",
+  "namespace": "http://localhost:9987/api/v1",
+  "prefix": "traffic"
+}

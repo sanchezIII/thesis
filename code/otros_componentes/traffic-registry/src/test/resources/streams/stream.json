@@ -1,0 +1,11 @@
+{
+  "id": "stream-1",
+  "derivedFrom": "stream-0",
+  "generatedBy": "sensor-1",
+  "streamStart": "2021/09/05 01:25",
+  "location": {
+    "id": "point1",
+    "latitude": 0.456343,
+    "longitude": -0.8877
+  }
+}

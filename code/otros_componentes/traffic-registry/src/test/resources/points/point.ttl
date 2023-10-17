@@ -1,0 +1,7 @@
+@prefix traffic: <http://localhost:9987/api/v1> .
+@prefix wgs84_pos: <https://www.w3.org/2003/01/geo/wgs84_pos/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://localhost:9987/api/v1/points/point-9> a wgs84_pos:Point;
+  wgs84_pos:lat 6.6354E-1;
+  wgs84_pos:long -2.6333E-1 .

@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: doc.aux
+The style file: abbrvnat.bst
+Database file #1: ref.bib
+Warning--entry type for "ref57" isn't style-file defined
+--line 469 of file ref.bib
+Warning--empty year in ref57
+Warning--empty publisher in ref3
+Warning--empty year in ref21
+Warning--empty year in ref46
+Warning--empty publisher in ref47
+You've used 23 entries,
+            2773 wiz_defined-function locations,
+            718 strings with 8529 characters,
+and the built_in function-call counts, 8033 in all, are:
+= -- 733
+> -- 341
+< -- 21
++ -- 127
+- -- 102
+* -- 498
+:= -- 1299
+add.period$ -- 101
+call.type$ -- 23
+change.case$ -- 100
+chr.to.int$ -- 21
+cite$ -- 51
+duplicate$ -- 409
+empty$ -- 735
+format.name$ -- 133
+if$ -- 1686
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 18
+newline$ -- 155
+num.names$ -- 92
+pop$ -- 239
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 297
+stack$ -- 0
+substring$ -- 82
+swap$ -- 28
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 233
+warning$ -- 5
+while$ -- 71
+width$ -- 0
+write$ -- 348
+(There were 6 warnings)

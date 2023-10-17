@@ -1,0 +1,14 @@
+{
+  "kafka-consumer-service": {
+    "bootstrap-servers": "localhost:9092",
+    "key-deserializer": "org.apache.kafka.common.serialization.StringDeserializer",
+    "value-deserializer": "org.apache.kafka.common.serialization.StringDeserializer",
+    "group-id": "my_group",
+    "auto-offset-reset": "earliest",
+    "enable-auto-commit": "false",
+    "topics": {
+      "observations-topic-name": "observations-topic"
+    }
+  },
+  "start-kafka-consumer-service": true
+}

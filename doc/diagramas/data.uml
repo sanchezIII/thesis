@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.uclv.test.starter.observations.data</OriginalElement>
+  <nodes>
+    <node x="242.3181818181818" y="222.0">com.uclv.test.starter.observations.data.ObservationData</node>
+    <node x="485.0" y="-89.0">com.uclv.test.starter.observations.data.custom.DoubleObservationData</node>
+    <node x="-13.0" y="-189.0">com.uclv.test.starter.observations.data.Observation</node>
+    <node x="745.0" y="-89.0">com.uclv.test.starter.observations.data.custom.IntegerObservationData</node>
+    <node x="225.0" y="-89.0">com.uclv.test.starter.observations.data.custom.EnumObservationData</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.uclv.test.starter.observations.data.custom.IntegerObservationData" target="com.uclv.test.starter.observations.data.ObservationData" relationship="REALIZATION">
+      <point x="1.4210854715202004E-14" y="80.5" />
+      <point x="865.0" y="192.0" />
+      <point x="605.0" y="192.0" />
+      <point x="605.0" y="202.0" />
+      <point x="422.3181818181818" y="202.0" />
+      <point x="60.0" y="-67.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.observations.data.custom.EnumObservationData" target="com.uclv.test.starter.observations.data.ObservationData" relationship="REALIZATION">
+      <point x="0.0" y="80.5" />
+      <point x="345.0" y="192.0" />
+      <point x="605.0" y="192.0" />
+      <point x="605.0" y="202.0" />
+      <point x="422.3181818181818" y="202.0" />
+      <point x="60.0" y="-67.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.observations.data.Observation" target="com.uclv.test.starter.observations.data.ObservationData" relationship="TO_ONE">
+      <point x="0.0" y="180.5" />
+      <point x="96.0" y="192.0" />
+      <point x="302.3181818181818" y="192.0" />
+      <point x="-60.0" y="-67.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.observations.data.custom.DoubleObservationData" target="com.uclv.test.starter.observations.data.ObservationData" relationship="REALIZATION">
+      <point x="0.0" y="80.5" />
+      <point x="605.0" y="202.0" />
+      <point x="422.3181818181818" y="202.0" />
+      <point x="60.0" y="-67.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6201413427561837" showDependencies="true" x="496.0" y="93.99999999999997" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

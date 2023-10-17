@@ -1,0 +1,17 @@
+org/traffic/traffic_registry/stream/StreamService.class
+org/traffic/traffic_registry/sensor/StardogRDF4JSensorRepository.class
+org/traffic/traffic_registry/sensor/SensorRepository.class
+org/traffic/traffic_registry/sensor/SensorService.class
+org/traffic/traffic_registry/point/PointRepository.class
+org/traffic/traffic_registry/Vocabulary.class
+org/traffic/traffic_registry/point/StardogRDF4JPointRepository.class
+org/traffic/traffic_registry/common/exceptions/NotFoundException.class
+org/traffic/traffic_registry/sensor/Sensor.class
+org/traffic/traffic_registry/MainVerticle.class
+org/traffic/traffic_registry/common/exceptions/ConflictException.class
+org/traffic/traffic_registry/common/AbstractStardogRDFRepository.class
+org/traffic/traffic_registry/stream/StardogRDF4JStreamRepository.class
+org/traffic/traffic_registry/stream/StreamRepository.class
+org/traffic/traffic_registry/point/Point.class
+org/traffic/traffic_registry/RegistryVerticle.class
+org/traffic/traffic_registry/stream/Stream.class

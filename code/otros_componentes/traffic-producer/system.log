@@ -1,0 +1,6 @@
+Oct 20, 2022 1:57:00 PM org.traffic.traffic_producer.kafka.KafkaService start
+INFO: My first log
+Oct 20, 2022 1:57:00 PM org.traffic.traffic_producer.kafka.KafkaService start
+INFO: OK1
+Oct 20, 2022 1:57:00 PM org.traffic.traffic_producer.kafka.KafkaService start
+INFO: OK2

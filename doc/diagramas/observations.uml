@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>cu.uclv.mfc.enigma.observations</OriginalElement>
+  <nodes>
+    <node x="90.3083143612572" y="307.63452834007694">cu.uclv.mfc.enigma.observations.ObservationKafkaRepository</node>
+    <node x="-268.6916856387428" y="61.9989268623865">cu.uclv.mfc.enigma.observations.ObservationRedisRepository</node>
+    <node x="-438.02380661551547" y="382.4022682249014">cu.uclv.mfc.enigma.observations.ObservationService</node>
+    <node x="-868.6423169475615" y="147.39864441093115">cu.uclv.mfc.enigma.observations.data</node>
+    <node x="-868.6423169475615" y="61.9989268623865">cu.uclv.mfc.enigma.observations.factory</node>
+    <node x="-868.6423169475615" y="217.14145354783318">cu.uclv.mfc.enigma.observations.ObservationLoggingService</node>
+    <node x="90.3083143612572" y="178.39864441093118">cu.uclv.mfc.enigma.observations.ObservationRepository</node>
+    <node x="-438.02380661551547" y="178.39864441093115">cu.uclv.mfc.enigma.observations.ObservationMongoRepository</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationService" target="cu.uclv.mfc.enigma.observations.ObservationRepository" relationship="TO_ONE">
+      <point x="-1.9338448453254387E-4" y="-117.50026822490139" />
+      <point x="-279.024" y="360.0" />
+      <point x="-71.524" y="360.0" />
+      <point x="-71.524" y="220.899" />
+      <point x="-179.5003143612572" y="3.5558906881760777E-4" />
+    </edge>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationService" target="cu.uclv.mfc.enigma.observations.ObservationRedisRepository" relationship="CREATE">
+      <point x="159.0" y="0.0" />
+      <point x="466.8083143612572" y="499.9022682249014" />
+      <point x="466.8083143612572" y="104.4989268623865" />
+      <point x="179.5" y="0.0" />
+    </edge>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationKafkaRepository" target="cu.uclv.mfc.enigma.observations.ObservationRepository" relationship="GENERALIZATION">
+      <point x="-179.5003143612572" y="4.7165992305053805E-4" />
+      <point x="10.0" y="337.135" />
+      <point x="10.0" y="163.0" />
+      <point x="269.808" y="163.0" />
+      <point x="-3.1436125721029384E-4" y="-42.49964441093118" />
+    </edge>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationLoggingService" target="cu.uclv.mfc.enigma.observations.ObservationMongoRepository" relationship="CREATE">
+      <point x="188.0" y="-63.742809136902025" />
+      <point x="-179.5" y="0.0" />
+    </edge>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationMongoRepository" target="cu.uclv.mfc.enigma.observations.ObservationRepository" relationship="GENERALIZATION">
+      <point x="-1.9338448453254387E-4" y="-67.49964441093115" />
+      <point x="-258.524" y="163.0" />
+      <point x="269.808" y="163.0" />
+      <point x="-3.1436125721029384E-4" y="-42.49964441093118" />
+    </edge>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationLoggingService" target="cu.uclv.mfc.enigma.observations.ObservationRepository" relationship="TO_ONE">
+      <point x="188.00031694756154" y="-3.742453547833179" />
+      <point x="-463.142" y="305.899" />
+      <point x="-463.142" y="360.0" />
+      <point x="-71.524" y="360.0" />
+      <point x="-71.524" y="220.899" />
+      <point x="-179.5003143612572" y="3.5558906881760777E-4" />
+    </edge>
+    <edge source="cu.uclv.mfc.enigma.observations.ObservationRedisRepository" target="cu.uclv.mfc.enigma.observations.ObservationRepository" relationship="GENERALIZATION">
+      <point x="-3.14361257196083E-4" y="42.5000731376135" />
+      <point x="-89.192" y="163.0" />
+      <point x="269.808" y="163.0" />
+      <point x="-3.1436125721029384E-4" y="-42.49964441093118" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal Groups" zoom="0.6256499133448874" showDependencies="true" x="-191.0" y="349.50000000000006" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

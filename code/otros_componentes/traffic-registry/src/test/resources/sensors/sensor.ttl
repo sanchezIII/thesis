@@ -1,0 +1,7 @@
+@prefix sosa: <http://www.w3.org/ns/sosa/> .
+@prefix iot-lite: <http://purl.oclc.org/NET/UNIS/fiware/iot-lite#> .
+@prefix qu: <http://purl.oclc.org/NET/ssnx/qu/qu#> .
+
+<http://localhost:9987/api/v1/sensors/test-1> a sosa:sensor;
+  iot-lite:hasQuantityKind "speed";
+  iot-lite:hasUnit "kilometers" .

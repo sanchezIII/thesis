@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.uclv.test.starter.topics</OriginalElement>
+  <nodes>
+    <node x="161.51605540166202" y="402.3075457063711">com.uclv.test.starter.topics.TopicNotFoundException</node>
+    <node x="161.51605540166202" y="278.43625484764567">com.uclv.test.starter.topics.TopicRepository</node>
+    <node x="-167.9658753462603" y="352.30754570637106">com.uclv.test.starter.topics.TopicCollection</node>
+    <node x="-613.4478060941826" y="20.0">com.uclv.test.starter.topics.Topic</node>
+    <node x="161.51605540166202" y="20.0">com.uclv.test.starter.topics.TopicMongoRepository</node>
+    <node x="-204.4658753462603" y="20.0">com.uclv.test.starter.topics.TopicService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.uclv.test.starter.topics.TopicCollection" target="com.uclv.test.starter.topics.TopicNotFoundException" relationship="CREATE">
+      <point x="129.5" y="5.6843418860808015E-14" />
+      <point x="-122.0" y="0.0" />
+    </edge>
+    <edge source="com.uclv.test.starter.topics.TopicService" target="com.uclv.test.starter.topics.TopicRepository" relationship="TO_ONE">
+      <point x="15.0" y="130.5" />
+      <point x="-23.465875346260304" y="332.93625484764567" />
+      <point x="-140.0" y="0.0" />
+    </edge>
+    <edge source="com.uclv.test.starter.topics.TopicService" target="com.uclv.test.starter.topics.TopicCollection" relationship="TO_ONE">
+      <point x="0.0" y="130.5" />
+      <point x="0.0" y="-105.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.topics.TopicService" target="com.uclv.test.starter.topics.TopicMongoRepository" relationship="CREATE">
+      <point x="166.0" y="-25.0" />
+      <point x="-151.8905817174516" y="0.0" />
+    </edge>
+    <edge source="com.uclv.test.starter.topics.TopicMongoRepository" target="com.uclv.test.starter.topics.TopicRepository" relationship="REALIZATION">
+      <point x="-11.890581717451596" y="105.5" />
+      <point x="0.0" y="-54.5" />
+    </edge>
+    <edge source="com.uclv.test.starter.topics.TopicCollection" target="com.uclv.test.starter.topics.Topic" relationship="TO_MANY">
+      <point x="-129.5" y="0.0" />
+      <point x="187.5" y="157.30754570637106" />
+    </edge>
+  </edges>
+  <settings layout="Series Parallel" zoom="0.6041308089500861" showDependencies="true" x="-63.999999999999886" y="310.50000000000006" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

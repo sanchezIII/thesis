@@ -1,0 +1,2293 @@
+{
+  "requestDate": "2021/09/05 01:47:46",
+  "data": {
+    "ARL_203": {
+      "results": {
+        "5m": {
+          "count": 123,
+          "speed": 55.13,
+          "occupancy": 17.6,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "ARL_203_2": {
+          "results": {
+            "5m": {
+              "count": 45,
+              "speed": 57.31,
+              "occupancy": 12.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "ARL_203_1": {
+          "results": {
+            "5m": {
+              "count": 78,
+              "speed": 52.95,
+              "occupancy": 23.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BAI_TD1": {
+      "results": {
+        "5m": {
+          "count": 69,
+          "speed": 53.485,
+          "occupancy": 9.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BAI_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 58,
+              "speed": 50.55,
+              "occupancy": 16.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BAI_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 11,
+              "speed": 56.42,
+              "occupancy": 2.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BAI_TD2": {
+      "results": {
+        "5m": {
+          "count": 31,
+          "speed": 47.45,
+          "occupancy": 4.2,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BAI_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 26,
+              "speed": 47.18,
+              "occupancy": 7.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BAI_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 5,
+              "speed": 47.72,
+              "occupancy": 1.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BEL_TD4": {
+      "results": {
+        "5m": {
+          "count": 47,
+          "speed": 75.345,
+          "occupancy": 4.5,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BEL_TD4_2": {
+          "results": {
+            "5m": {
+              "count": 21,
+              "speed": 84.31,
+              "occupancy": 3.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BEL_TD4_1": {
+          "results": {
+            "5m": {
+              "count": 26,
+              "speed": 66.38,
+              "occupancy": 5.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BEL_TD5": {
+      "results": {
+        "5m": {
+          "count": 66,
+          "speed": 49.155,
+          "occupancy": 7.935,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BEL_TD5_2": {
+          "results": {
+            "5m": {
+              "count": 20,
+              "speed": 51.55,
+              "occupancy": 3.67,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BEL_TD5_1": {
+          "results": {
+            "5m": {
+              "count": 46,
+              "speed": 46.76,
+              "occupancy": 12.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BE_TD1": {
+      "results": {
+        "5m": {
+          "count": 81,
+          "speed": 60.546665,
+          "occupancy": 5.9333334,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BE_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 37,
+              "speed": 58.15,
+              "occupancy": 8.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BE_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 19,
+              "speed": 58.53,
+              "occupancy": 5.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BE_TD1_3": {
+          "results": {
+            "5m": {
+              "count": 25,
+              "speed": 64.96,
+              "occupancy": 4.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BET_TD2_12": {
+      "results": {
+        "5m": {
+          "count": 13,
+          "speed": 46.81,
+          "occupancy": 3.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BET_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 13,
+              "speed": 46.81,
+              "occupancy": 3.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BET_TD2_2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "BET_TD3": {
+      "results": {
+        "5m": {
+          "count": 21,
+          "speed": 45.05,
+          "occupancy": 2.6,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BET_TD3_1": {
+          "results": {
+            "5m": {
+              "count": 16,
+              "speed": 46.96,
+              "occupancy": 3.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BET_TD3_2": {
+          "results": {
+            "5m": {
+              "count": 5,
+              "speed": 43.14,
+              "occupancy": 1.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BOI_203": {
+      "results": {
+        "5m": {
+          "count": 44,
+          "speed": 40.43,
+          "occupancy": 6.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BOI_203_1": {
+          "results": {
+            "5m": {
+              "count": 32,
+              "speed": 37.96,
+              "occupancy": 9.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BOI_203_2": {
+          "results": {
+            "5m": {
+              "count": 12,
+              "speed": 42.9,
+              "occupancy": 3.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "BOT_TD2": {
+      "results": {
+        "5m": {
+          "count": 127,
+          "speed": 53.32,
+          "occupancy": 10.0,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "BOT_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 54,
+              "speed": 57.14,
+              "occupancy": 7.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "BOT_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 73,
+              "speed": 49.5,
+              "occupancy": 12.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "CIN_TD1": {
+      "results": {
+        "5m": {
+          "count": 21,
+          "speed": 56.89,
+          "occupancy": 2.7,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "CIN_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 2,
+              "speed": 65.0,
+              "occupancy": 0.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "CIN_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 19,
+              "speed": 48.78,
+              "occupancy": 4.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "CIN_TD2": {
+      "results": {
+        "5m": {
+          "count": 20,
+          "speed": 53.19,
+          "occupancy": 2.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "CIN_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 19,
+              "speed": 47.38,
+              "occupancy": 4.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "CIN_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 1,
+              "speed": 59.0,
+              "occupancy": 0.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "DEL_103_12": {
+      "results": {
+        "5m": {
+          "count": 23,
+          "speed": 61.175,
+          "occupancy": 2.6,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "DEL_103_2": {
+          "results": {
+            "5m": {
+              "count": 2,
+              "speed": 59.58,
+              "occupancy": 0.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "DEL_103_1": {
+          "results": {
+            "5m": {
+              "count": 21,
+              "speed": 62.77,
+              "occupancy": 5.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "DEL_103_6": {
+      "results": {
+        "5m": {
+          "count": 0,
+          "speed": 0.0,
+          "occupancy": 0.0,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "DEL_103_6": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "GH_203": {
+      "results": {
+        "5m": {
+          "count": 0,
+          "speed": 0.0,
+          "occupancy": 0.0,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "GH_203_2": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "GH_203_3": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "GH_203_1": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "HAL_191": {
+      "results": {
+        "5m": {
+          "count": 48,
+          "speed": 19.65,
+          "occupancy": 6.7,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "HAL_191_2": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "HAL_191_1": {
+          "results": {
+            "5m": {
+              "count": 48,
+              "speed": 39.3,
+              "occupancy": 13.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "HAL_292": {
+      "results": {
+        "5m": {
+          "count": 52,
+          "speed": 43.175,
+          "occupancy": 7.365,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "HAL_292_2": {
+          "results": {
+            "5m": {
+              "count": 17,
+              "speed": 46.61,
+              "occupancy": 4.33,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "HAL_292_1": {
+          "results": {
+            "5m": {
+              "count": 35,
+              "speed": 39.74,
+              "occupancy": 10.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "LOI_103": {
+      "results": {
+        "5m": {
+          "count": 25,
+          "speed": 54.88,
+          "occupancy": 1.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "LOI_103_1": {
+          "results": {
+            "5m": {
+              "count": 15,
+              "speed": 46.74,
+              "occupancy": 2.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "LOI_103_2": {
+          "results": {
+            "5m": {
+              "count": 10,
+              "speed": 63.02,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "LOI_109": {
+      "results": {
+        "5m": {
+          "count": 0,
+          "speed": 0.0,
+          "occupancy": 0.0,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "LOI_109_6": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "LOU_110": {
+      "results": {
+        "5m": {
+          "count": 25,
+          "speed": 41.97,
+          "occupancy": 7.6,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "LOU_110_6": {
+          "results": {
+            "5m": {
+              "count": 25,
+              "speed": 41.97,
+              "occupancy": 7.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "LOU_TD1": {
+      "results": {
+        "5m": {
+          "count": 86,
+          "speed": 49.15,
+          "occupancy": 13.5,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "LOU_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 21,
+              "speed": 50.62,
+              "occupancy": 6.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "LOU_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 65,
+              "speed": 47.68,
+              "occupancy": 21.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "LOU_TD2": {
+      "results": {
+        "5m": {
+          "count": 73,
+          "speed": 55.775,
+          "occupancy": 7.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "LOU_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 51,
+              "speed": 50.56,
+              "occupancy": 12.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "LOU_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 22,
+              "speed": 60.99,
+              "occupancy": 2.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "MAD_103": {
+      "results": {
+        "5m": {
+          "count": 72,
+          "speed": 52.615,
+          "occupancy": 11.1,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "MAD_103_2": {
+          "results": {
+            "5m": {
+              "count": 17,
+              "speed": 54.48,
+              "occupancy": 4.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "MAD_103_1": {
+          "results": {
+            "5m": {
+              "count": 55,
+              "speed": 50.75,
+              "occupancy": 17.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "MAD_203": {
+      "results": {
+        "5m": {
+          "count": 151,
+          "speed": 58.43,
+          "occupancy": 24.6,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "MAD_203_2": {
+          "results": {
+            "5m": {
+              "count": 98,
+              "speed": 65.1,
+              "occupancy": 28.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "MAD_203_1": {
+          "results": {
+            "5m": {
+              "count": 53,
+              "speed": 51.76,
+              "occupancy": 21.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "MON_TD1": {
+      "results": {
+        "5m": {
+          "count": 20,
+          "speed": 66.975,
+          "occupancy": 2.575,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "MON_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 18,
+              "speed": 53.43,
+              "occupancy": 4.75,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "MON_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 2,
+              "speed": 80.52,
+              "occupancy": 0.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "MON_TD2": {
+      "results": {
+        "5m": {
+          "count": 32,
+          "speed": 22.71,
+          "occupancy": 4.5,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "MON_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 32,
+              "speed": 45.42,
+              "occupancy": 9.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "MON_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "PNA_103": {
+      "results": {
+        "5m": {
+          "count": 87,
+          "speed": 56.495,
+          "occupancy": 12.4,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "PNA_103_2": {
+          "results": {
+            "5m": {
+              "count": 26,
+              "speed": 59.36,
+              "occupancy": 6.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "PNA_103_1": {
+          "results": {
+            "5m": {
+              "count": 61,
+              "speed": 53.63,
+              "occupancy": 18.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "PNA_203": {
+      "results": {
+        "5m": {
+          "count": 128,
+          "speed": 55.43,
+          "occupancy": 19.0,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "PNA_203_2": {
+          "results": {
+            "5m": {
+              "count": 45,
+              "speed": 60.6,
+              "occupancy": 12.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "PNA_203_1": {
+          "results": {
+            "5m": {
+              "count": 83,
+              "speed": 50.26,
+              "occupancy": 25.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "RCE_TD1": {
+      "results": {
+        "5m": {
+          "count": 31,
+          "speed": 46.02,
+          "occupancy": 10.2,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "RCE_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 31,
+              "speed": 46.02,
+              "occupancy": 10.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "RME_TD1": {
+      "results": {
+        "5m": {
+          "count": 12,
+          "speed": 33.49,
+          "occupancy": 2.2,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "RME_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 12,
+              "speed": 33.49,
+              "occupancy": 2.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "ROG_TD1": {
+      "results": {
+        "5m": {
+          "count": 47,
+          "speed": 52.835,
+          "occupancy": 5.835,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "ROG_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 10,
+              "speed": 61.8,
+              "occupancy": 0.67,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "ROG_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 37,
+              "speed": 43.87,
+              "occupancy": 11.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "ROG_TD2": {
+      "results": {
+        "5m": {
+          "count": 81,
+          "speed": 58.98,
+          "occupancy": 9.5,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "ROG_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 28,
+              "speed": 64.4,
+              "occupancy": 4.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "ROG_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 53,
+              "speed": 53.56,
+              "occupancy": 15.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "SB020_BAout": {
+      "results": {
+        "5m": {
+          "count": 65,
+          "speed": 33.99,
+          "occupancy": 6.2,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SB020_BAout1": {
+          "results": {
+            "5m": {
+              "count": 27,
+              "speed": 33.88,
+              "occupancy": 4.8,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB020_BAout2": {
+          "results": {
+            "5m": {
+              "count": 38,
+              "speed": 34.1,
+              "occupancy": 7.6,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        }
+      }
+    },
+    "SB020_BBin": {
+      "results": {
+        "5m": {
+          "count": 13,
+          "speed": 24.3,
+          "occupancy": 3.25,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SB020_BBin2": {
+          "results": {
+            "5m": {
+              "count": 13,
+              "speed": 24.3,
+              "occupancy": 3.25,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB020_BBin1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB020_BCin": {
+      "results": {
+        "5m": {
+          "count": 29,
+          "speed": 14.4366665,
+          "occupancy": 4.866667,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SB020_BCin2": {
+          "results": {
+            "5m": {
+              "count": 9,
+              "speed": 22.15,
+              "occupancy": 2.4,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB020_BCin3": {
+          "results": {
+            "5m": {
+              "count": 3,
+              "speed": 1.0,
+              "occupancy": 5.0,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB020_BCin1": {
+          "results": {
+            "5m": {
+              "count": 17,
+              "speed": 20.16,
+              "occupancy": 7.2,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        }
+      }
+    },
+    "SB020_BDout": {
+      "results": {
+        "5m": {
+          "count": 59,
+          "speed": 35.29,
+          "occupancy": 5.6,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SB020_BDout1": {
+          "results": {
+            "5m": {
+              "count": 43,
+              "speed": 33.79,
+              "occupancy": 8.6,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB020_BDout2": {
+          "results": {
+            "5m": {
+              "count": 16,
+              "speed": 36.79,
+              "occupancy": 2.6,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        }
+      }
+    },
+    "SB0236_BCout": {
+      "results": {
+        "5m": {
+          "count": 13,
+          "speed": 40.75,
+          "occupancy": 1.75,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SB0236_BCout2": {
+          "results": {
+            "5m": {
+              "count": 13,
+              "speed": 40.75,
+              "occupancy": 1.75,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB0236_BCout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB0236_BHout": {
+      "results": {
+        "5m": {
+          "count": 28,
+          "speed": 40.85,
+          "occupancy": 2.75,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SB0236_BHout2": {
+          "results": {
+            "5m": {
+              "count": 9,
+              "speed": 42.1,
+              "occupancy": 1.5,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SB0236_BHout1": {
+          "results": {
+            "5m": {
+              "count": 19,
+              "speed": 39.6,
+              "occupancy": 4.0,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        }
+      }
+    },
+    "SGN02_BBout": {
+      "results": {
+        "5m": {
+          "count": 28,
+          "speed": 42.085,
+          "occupancy": 1.9,
+          "start_time": "2021/09/05 01:15",
+          "end_time": "2021/09/05 01:20"
+        }
+      },
+      "detectors": {
+        "SGN02_BBout1": {
+          "results": {
+            "5m": {
+              "count": 3,
+              "speed": 43.98,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        },
+        "SGN02_BBout2": {
+          "results": {
+            "5m": {
+              "count": 25,
+              "speed": 40.19,
+              "occupancy": 3.8,
+              "start_time": "2021/09/05 01:15",
+              "end_time": "2021/09/05 01:20"
+            }
+          }
+        }
+      }
+    },
+    "STE_TD1": {
+      "results": {
+        "5m": {
+          "count": 8,
+          "speed": 43.17,
+          "occupancy": 1.2,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "STE_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 8,
+              "speed": 43.17,
+              "occupancy": 1.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "STE_TD2": {
+      "results": {
+        "5m": {
+          "count": 43,
+          "speed": 51.32,
+          "occupancy": 4.85,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "STE_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 19,
+              "speed": 56.93,
+              "occupancy": 3.5,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "STE_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 24,
+              "speed": 45.71,
+              "occupancy": 6.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "STE_TD3": {
+      "results": {
+        "5m": {
+          "count": 68,
+          "speed": 30.16,
+          "occupancy": 19.8,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "STE_TD3_1": {
+          "results": {
+            "5m": {
+              "count": 68,
+              "speed": 30.16,
+              "occupancy": 19.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "TER_TD1": {
+      "results": {
+        "5m": {
+          "count": 1,
+          "speed": 9.0,
+          "occupancy": 0.25,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "TER_TD1_1": {
+          "results": {
+            "5m": {
+              "count": 1,
+              "speed": 18.0,
+              "occupancy": 0.5,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "TER_TD1_2": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "TER_TD2": {
+      "results": {
+        "5m": {
+          "count": 9,
+          "speed": 24.63,
+          "occupancy": 1.125,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "TER_TD2_2": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "TER_TD2_1": {
+          "results": {
+            "5m": {
+              "count": 9,
+              "speed": 49.26,
+              "occupancy": 2.25,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "TRO_203": {
+      "results": {
+        "5m": {
+          "count": 52,
+          "speed": 48.375,
+          "occupancy": 7.6,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "TRO_203_1": {
+          "results": {
+            "5m": {
+              "count": 27,
+              "speed": 48.04,
+              "occupancy": 7.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "TRO_203_2": {
+          "results": {
+            "5m": {
+              "count": 25,
+              "speed": 48.71,
+              "occupancy": 8.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "VLE_103": {
+      "results": {
+        "5m": {
+          "count": 60,
+          "speed": 57.805,
+          "occupancy": 7.9,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {}
+    },
+    "VLE_203": {
+      "results": {
+        "5m": {
+          "count": 60,
+          "speed": 57.805,
+          "occupancy": 7.9,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "VLE_103_1": {
+          "results": {
+            "5m": {
+              "count": 39,
+              "speed": 54.11,
+              "occupancy": 11.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "VLE_103_2": {
+          "results": {
+            "5m": {
+              "count": 21,
+              "speed": 61.5,
+              "occupancy": 4.2,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "VP_103": {
+      "results": {
+        "5m": {
+          "count": 33,
+          "speed": 57.885,
+          "occupancy": 4.0,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "VP_103_1": {
+          "results": {
+            "5m": {
+              "count": 26,
+              "speed": 59.22,
+              "occupancy": 6.4,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "VP_103_2": {
+          "results": {
+            "5m": {
+              "count": 7,
+              "speed": 56.55,
+              "occupancy": 1.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "SB1201_BAout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SB1201_BAout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB1201_BAout3": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB1201_BAout2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB1201_BAout4": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "VP_203": {
+      "results": {
+        "5m": {
+          "count": 32,
+          "speed": 60.255,
+          "occupancy": 4.635,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "VP_203_1": {
+          "results": {
+            "5m": {
+              "count": 19,
+              "speed": 59.5,
+              "occupancy": 4.6,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "VP_203_2": {
+          "results": {
+            "5m": {
+              "count": 13,
+              "speed": 61.01,
+              "occupancy": 4.67,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BHout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BHout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SUL62_BHout2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BDout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BDout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB125_BBout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SB125_BBout3": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB125_BBout2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB125_BBout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB125_BBout4": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB0246_BAout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SB0246_BAout3": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB0246_BAout4": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BGin": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BGin1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SUL62_BGin2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BGout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BGout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "TRO_TD2": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "TRO_TD2_2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "TRO_TD2_1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "GH_103": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "GH_103_2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "GH_103_3": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "GH_103_1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BHin": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BHin1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BA1out": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BA1out1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB0246_BXout": {
+      "results": {
+        "5m": {
+          "count": 0,
+          "speed": 0.0,
+          "occupancy": 0.0,
+          "start_time": "2021/09/04 04:30",
+          "end_time": "2021/09/04 04:35"
+        }
+      },
+      "detectors": {
+        "SB0246_BXout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB0246_BXout2": {
+          "results": {
+            "5m": {
+              "count": 0,
+              "speed": 0.0,
+              "occupancy": 0.0,
+              "start_time": "2021/09/04 04:30",
+              "end_time": "2021/09/04 04:35"
+            }
+          }
+        }
+      }
+    },
+    "ARL_103": {
+      "results": {
+        "5m": {
+          "count": 81,
+          "speed": 40.49,
+          "occupancy": 12.9,
+          "start_time": "2021/09/05 01:20",
+          "end_time": "2021/09/05 01:25"
+        }
+      },
+      "detectors": {
+        "ARL_103_2": {
+          "results": {
+            "5m": {
+              "count": 23,
+              "speed": 51.55,
+              "occupancy": 7.0,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        },
+        "ARL_103_1": {
+          "results": {
+            "5m": {
+              "count": 58,
+              "speed": 29.43,
+              "occupancy": 18.8,
+              "start_time": "2021/09/05 01:20",
+              "end_time": "2021/09/05 01:25"
+            }
+          }
+        }
+      }
+    },
+    "SGN02_BAout": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SGN02_BAout2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SGN02_BAout1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SUL62_BDin": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SUL62_BDin1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "TRO_TD1": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "TRO_TD1_2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "TRO_TD1_1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB121_BBin": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {
+        "SB121_BBin5": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB121_BBin1": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB121_BBin2": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB121_BBin4": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        },
+        "SB121_BBin3": {
+          "results": {
+            "5m": {
+              "count": null,
+              "speed": null,
+              "occupancy": null,
+              "start_time": "-",
+              "end_time": "-"
+            }
+          }
+        }
+      }
+    },
+    "SB125_BBin": {
+      "results": {
+        "5m": {
+          "count": null,
+          "speed": null,
+          "occupancy": null,
+          "start_time": "-",
+          "end_time": "-"
+        }
+      },
+      "detectors": {}
+    }
+  }
+}

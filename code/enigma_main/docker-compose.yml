@@ -1,0 +1,59 @@
+version: '3'
+
+services:
+  enigma-main:
+    container_name: enigma-chaos
+
+    build:
+      context: ./
+      dockerfile: Dockerfile
+
+    image: enigma-main:001
+
+    ports:
+      - "14080:14080"
+
+    networks:
+      - enigma_network
+
+
+
+  enigma-mongo:
+    image: mongo
+
+    ports:
+      - "27017:27017"
+
+    restart: always
+
+    networks:
+      - enigma_network
+
+  #    environment:
+#      MONGO_INITDB_ROOT_USERNAME: root
+#      MONGO_INITDB_ROOT_PASSWORD: example
+
+#  enigma-kafka:
+#    image: wurstmeister/kafka
+#    ports:
+#      - "9092:9092"
+#    networks:
+#      - enigma_network
+#    restart: always
+
+
+  enigma-zookeeper:
+    image: wurstmeister/zookeeper
+
+    ports:
+      - "2181:2181"
+
+    networks:
+      - enigma_network
+
+    restart: always
+
+
+
+networks:
+  enigma_network:

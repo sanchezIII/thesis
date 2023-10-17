@@ -1,0 +1,17 @@
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/sensor/Sensor.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/common/AbstractStardogRDFRepository.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/RegistryVerticle.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/stream/StreamService.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/Vocabulary.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/point/Point.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/MainVerticle.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/point/PointRepository.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/stream/Stream.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/common/exceptions/ConflictException.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/sensor/SensorService.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/sensor/StardogRDF4JSensorRepository.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/sensor/SensorRepository.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/stream/StardogRDF4JStreamRepository.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/common/exceptions/NotFoundException.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/point/StardogRDF4JPointRepository.java
+/home/luis/Projects/thesis/code/traffic-registry/src/main/java/org/traffic/traffic_registry/stream/StreamRepository.java

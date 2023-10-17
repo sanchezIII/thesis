@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": "count-stream-1",
+      "location": {
+        "latitude": 1.23666,
+        "longitude": -0.23666
+      },
+      "streamStart": "2021/09/05 01:25",
+      "generatedBy": "LOU_TD1_COUNT",
+      "feature": "count"
+    },
+    {
+      "id": "speed-stream-1",
+      "location": {
+        "latitude": 1.23666,
+        "longitude": -0.23666
+      },
+      "streamStart": "2021/09/05 01:25",
+      "generatedBy": "ARL_103_SPEED",
+      "feature": "speed"
+    }
+  ]
+}
